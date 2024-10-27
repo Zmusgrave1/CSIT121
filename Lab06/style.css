@@ -1,0 +1,18 @@
+h1{
+    font-weight: bold;
+    font-size: xxx-large;
+}
+p{
+    font-size: larger;
+    font-style: italic;
+}
+h2{
+    color: purple;
+}
+ol{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: aquamarine;
+}
