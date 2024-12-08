@@ -1,0 +1,22 @@
+h1{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color: red
+}
+h3{
+    font-style: italic;
+}
+ol{
+    border-style: solid;
+    border-color: blue;
+}
+ul{
+    border-style:solid;
+    border-color: purple;
+}
+body{
+    background-color: yellow;
+}
+a:hover{color: darkgreen;}
